@@ -4,6 +4,7 @@ This module is for basic annotations- floor
 """
 
 
+import math
 def floor(n: float) -> int:
     """
     function floor.
@@ -14,4 +15,4 @@ def floor(n: float) -> int:
     Returns:
         float: The floor of the float.
     """
-    return n
+    return math.floor(n)
