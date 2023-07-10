@@ -1,8 +1,8 @@
 # 0x01. Python - Async
 
-<button color="red">Python</button> <button color="red">Back-end</button>
+<button style="backgound-color:red">Python</button> <button style="backgound-color:red">Back-end</button>
 
-![img]()
+![img](https://github.com/AishaKhalfan/alx-backend-python/blob/main/0x01-python_async_function/async.png)
 
 # Resources
 ## Read or watch:
